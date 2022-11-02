@@ -1,0 +1,13 @@
+.card-text {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+}
+
+.card-title {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
+.fondo {
+    background-color: hsl(212, 45%, 89%);
+}
